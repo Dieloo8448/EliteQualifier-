@@ -4,6 +4,22 @@ An amazing pal to talk to! Enjoy your time with Zen and try out every secret fun
 
 WELCOME TO ZEN'S VIRTUAL WORLD 
 
+Table of Contents
+Background
+
+Install
+
+Usage
+
+Background
+This is why this application exists.
+
+Install
+These are the steps to setup your local environment to run this application.
+
+Usage
+These are the steps to use the application or interact with it.
+
 ## Test Plan
 
 To test the project:
